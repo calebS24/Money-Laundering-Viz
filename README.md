@@ -31,7 +31,7 @@ You can also view the published version of this report online here: [Published P
 ## Contact Me
 
 For more information or to provide feedback, please contact me at:
-- **Email**: [your_email@example.com](mailto:calebsvarghese@gmail.com)
 - **LinkedIn**: [Click Here](https://www.linkedin.com/in/calebsv)
+- **Email**: [calebsvarghese@gmail.com](mailto:calebsvarghese@gmail.com)
 
 Thank you for exploring this analysis of black money transactions globally.
