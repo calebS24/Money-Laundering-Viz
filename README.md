@@ -38,4 +38,4 @@ For more information or to provide feedback, please reach out to me:
 - **LinkedIn**: [Caleb Shaji Varghese](https://www.linkedin.com/in/calebsv)
 - **Email**: [calebsvarghese@gmail.com](mailto:calebsvarghese@gmail.com)
 
-Thank you for exploring this comprehensive analysis of global black money transactions.
+Thank you for reviewing this in-depth analysis of global illicit financial transactions. Please let me know what you think 🌟
