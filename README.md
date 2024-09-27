@@ -27,6 +27,8 @@ Before you can use this Power BI report, you will need:
 ## Published Power BI Link
 
 You can also view the published version of this report online here: [Published Power BI Report](https://app.powerbi.com/groups/me/reports/0f903493-06a0-49c0-a8a2-02c08eafde3a/ef063ea3e02f1f407af2?experience=power-bi)
+For non-BI users, here you go
+  -![Global Black Money Transactions Analysis](https://github.com/calebS24/Money-Laundering-Vizualization/blob/main/BIviz.jpg)
 
 ## Contact Me
 
